@@ -7,11 +7,11 @@ This project implements a self-modifying AI system capable of autonomously evolv
 - Evolutionary training strategies
 - Graph neural network implementations
 - Comprehensive testing and evaluation
-
+d
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/self-rewriting-ai.git
+   git clone https://github.com/JbellMD/ai_test_env_CUS.git
 
 Install dependencies:
 bash
